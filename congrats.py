@@ -2,6 +2,7 @@
 
 WINTER_2017 = ['K. Student', 'J. Student', 'L. Student', 'M. Student', 'Z. Student']
 # ADD A NEW LINE HERE TO ADD YOURSELF TO THE LIST using +=
+WINTER_2017 += ['A. Husmann', 'G. Carvalho']
 
 print 'YAY!'
 
